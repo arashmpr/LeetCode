@@ -65,6 +65,7 @@ class Solution:
             if jump >= max_jump:
                 max_jump = jump
             curr_index += 1
+
         
 # @lc code=end
 
